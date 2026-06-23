@@ -347,6 +347,14 @@ All fields are required.
 
 ---
 
+<img width="949" height="435" alt="Screenshot 2026-06-23 092940" src="https://github.com/user-attachments/assets/cff49c92-84b2-48c1-9323-e6b8f0409474" />
+
+<img width="943" height="419" alt="Screenshot 2026-06-23 093214" src="https://github.com/user-attachments/assets/66d0e904-6a5b-4d1d-8850-2ab3a935183f" />
+
+<img width="914" height="453" alt="Screenshot 2026-06-23 093254" src="https://github.com/user-attachments/assets/e7523688-ee57-4151-80b5-8848d6ad9d5e" />
+
+<img width="955" height="326" alt="image" src="https://github.com/user-attachments/assets/ee9db8dc-ae41-438a-93f6-25ffa2c27d55" />
+
 
 Legacy Automotive Vehicle Service Management System
 
